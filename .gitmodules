@@ -4,3 +4,6 @@
 [submodule "constraints"]
 	path = constraints
 	url = /Users/openclaw/.openclaw/workspace/.tmp-constraints-submodule
+[submodule "development"]
+	path = development
+	url = /Users/openclaw/.openclaw/workspace/.tmp-development-submodule
