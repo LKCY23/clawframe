@@ -73,7 +73,7 @@ Its purpose is to answer:
 
 ---
 
-### 3. `development`
+### 3. `development` -> project **`clawworks`**
 
 **Role**
 - development-system conventions and governance

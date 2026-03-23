@@ -48,7 +48,7 @@ This system already has:
 - constraint packs, rules, registry, and governance files
 - a clear boundary from application-level systems
 
-### `development`
+### `development` -> project **`clawworks`**
 
 Purpose:
 - development-system conventions and governance
@@ -93,4 +93,6 @@ Bad fits for the umbrella layer:
 ## Current note on submodule URLs
 
 The current submodule URLs are local-path based bootstrap URLs used to establish the structure locally.
+They are acceptable for local validation, but may later be replaced by more stable local paths or formal remotes when the multi-repository layout is hardened.
+ocally.
 They are acceptable for local validation, but may later be replaced by more stable local paths or formal remotes when the multi-repository layout is hardened.
