@@ -1,3 +1,6 @@
 [submodule "self-improving-system"]
 	path = self-improving-system
 	url = /Users/openclaw/.openclaw/workspace/.tmp-self-improving-submodule
+[submodule "constraints"]
+	path = constraints
+	url = /Users/openclaw/.openclaw/workspace/.tmp-constraints-submodule
