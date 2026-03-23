@@ -1,9 +1,9 @@
 [submodule "self-improving-system"]
 	path = self-improving-system
-	url = /Users/openclaw/.openclaw/workspace/.tmp-self-improving-submodule
+	url = https://github.com/LKCY23/self-improving-system.git
 [submodule "constraints"]
 	path = constraints
-	url = /Users/openclaw/.openclaw/workspace/.tmp-constraints-submodule
+	url = https://github.com/LKCY23/constraints.git
 [submodule "development"]
 	path = development
-	url = /Users/openclaw/.openclaw/workspace/.tmp-development-submodule
+	url = https://github.com/LKCY23/development.git
