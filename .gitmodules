@@ -1,0 +1,3 @@
+[submodule "self-improving-system"]
+	path = self-improving-system
+	url = /Users/openclaw/.openclaw/workspace/.tmp-self-improving-submodule
