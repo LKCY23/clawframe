@@ -92,7 +92,14 @@ Bad fits for the umbrella layer:
 
 ## Current note on submodule URLs
 
-The current submodule URLs are local-path based bootstrap URLs used to establish the structure locally.
-They are acceptable for local validation, but may later be replaced by more stable local paths or formal remotes when the multi-repository layout is hardened.
+The current submodule URLs now point at the formal GitHub HTTPS remotes for the child-system repositories.
+
+Current public repository mapping:
+
+- `systems` -> project **`clawframe`**
+- `self-improving-system` -> project **`clawforge`**
+- `constraints` -> project **`clawguard`**
+- `development` -> project **`clawworks`**
+local validation, but may later be replaced by more stable local paths or formal remotes when the multi-repository layout is hardened.
 ocally.
 They are acceptable for local validation, but may later be replaced by more stable local paths or formal remotes when the multi-repository layout is hardened.

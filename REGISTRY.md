@@ -44,7 +44,7 @@ Its purpose is to answer:
 
 ---
 
-### 2. `constraints`
+### 2. `constraints` -> project **`clawguard`**
 
 **Role**
 - rules governance
