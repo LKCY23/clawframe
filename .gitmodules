@@ -1,9 +1,9 @@
 [submodule "self-improving-system"]
 	path = self-improving-system
-	url = https://github.com/LKCY23/self-improving-system.git
+	url = https://github.com/LKCY23/clawforge.git
 [submodule "constraints"]
 	path = constraints
-	url = https://github.com/LKCY23/constraints.git
+	url = https://github.com/LKCY23/clawguard.git
 [submodule "development"]
 	path = development
-	url = https://github.com/LKCY23/development.git
+	url = https://github.com/LKCY23/clawworks.git
