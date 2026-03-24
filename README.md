@@ -3,7 +3,7 @@
 **Clawframe is the systems umbrella for the OpenClaw ecosystem — the frame that keeps Clawforge, Clawguard, and Clawworks legible as first-class systems.**
 
 <p align="center">
-  <img src="../artifacts/images/repo-covers/clawframe-01.jpeg" alt="Clawframe cover" width="100%">
+  <img src="../artifacts/images/repo-covers/clawframe-10.jpeg" alt="Clawframe cover" width="100%">
 </p>
 
 <p align="center">
