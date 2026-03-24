@@ -28,6 +28,12 @@ It exists to make three things explicit:
 
 ---
 
+## Role in the ecosystem
+
+Clawframe is the umbrella that keeps the ecosystem's major systems distinct, named, and legible as one coherent set.
+
+---
+
 ## Current systems
 
 | Local system id | Project | Role |
